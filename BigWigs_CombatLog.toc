@@ -1,0 +1,14 @@
+## Interface: 11200
+## Title: Big Wigs |cffff0000+|r|cffffffffCombat Log|r
+## Notes: Improved Combat Logging.
+## Author: Dorann
+## X-Website: https://github.com/xorann/BigWigs/releases
+## X-eMail: xorann@gmail.com
+## X-Category: Raid
+## Version: 1
+## Dependencies: BigWigs
+## SavedVariables: BigWigsCombatLogDB
+
+## X-BigWigs-LoadWithCore: 1
+
+CombatLog.lua
